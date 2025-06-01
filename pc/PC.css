@@ -1,0 +1,174 @@
+img {
+    width: 100%;
+}
+
+
+
+.logo {
+    width: 60px;
+    border-radius: 10px;
+    box-shadow: -2px -2px 7px rgb(82, 0, 158), 2px 2px 7px rgb(0, 128, 255);
+}
+
+.nav-link {
+    color: white;
+    font-size: 1.4em;
+    font-weight: 900;
+    font-family: "Caveat", cursive;
+}
+
+.nav-link:hover {
+    color: rgb(144, 141, 138);
+}
+
+h1,
+h2 {
+    font-family: "Montserrat", sans-serif;
+}
+
+
+
+
+.navbar {
+    background-color: #062883;
+}
+
+.shopping-cart {
+    cursor: pointer;
+    color: white;
+    font-size: 1.5em;
+}
+
+.shopping-cart:hover {
+    color: #838cff;
+}
+
+.div-read-more {
+    display: none;
+}
+
+.btn-read-more,
+.read-min {
+    cursor: pointer;
+    user-select: none;
+    text-decoration: underline;
+    color: #062883;
+}
+
+.my-btn:hover {
+    box-shadow: 0px 0px 8px #181A44;
+}
+
+.PC1 {
+    width: 450px;
+}
+
+.pc-p {
+    font-size: 20px;
+}
+
+.margin-row {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.xaras {
+    border-radius: 10px;
+}
+
+
+.my-btn {
+    background-color: #002792;
+
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 15px;
+    margin: 10px;
+    transition: 0.5s;
+}
+
+.card {
+    padding: 10px;
+    background-color: #002792;
+    color: white;
+    margin: 15px;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+.my-btn-white {
+    background-color: white;
+
+    border: none;
+    color: #002792;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 15px;
+    margin: 10px;
+    transition: 0.5s;
+    width: 300px;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    color: black;
+}
+
+.gih {
+    text-align: center;
+    color: #062883;
+    padding: 25px;
+}
+
+.footer {
+    background: linear-gradient(135deg, #3b3b98, #062883);
+    color: white;
+    text-align: center;
+    padding: 5px 5px;
+}
+
+.footer h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.footer .social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin-bottom: 20px;
+}
+
+.footer .social-icons a {
+    color: white;
+    font-size: 28px;
+    transition: transform 0.3s, color 0.3s;
+}
+
+.footer .social-icons a:hover {
+    color: #ffeaa7;
+    transform: scale(1.2);
+}
+
+.footer p {
+    font-size: 14px;
+    color: #dcdde1;
+}
+
+p {
+    font-family: "Play", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
